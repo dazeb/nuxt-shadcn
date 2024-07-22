@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as t,e as n,E as c}from"./CoFMmUJM.js";const r={},s={class:"relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono inline-code"};function _(e,d){return t(),n("code",s,[c(e.$slots,"default",{},void 0,!0)])}const m=o(r,[["render",_],["__scopeId","data-v-2fcb1f1c"]]);export{m as default};

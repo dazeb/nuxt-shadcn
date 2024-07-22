@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{c as s,e as o,E as r}from"./CoFMmUJM.js";const c={},l={class:"[&>h3]:step [&>li]:step ml-4 border-l pl-8 [counter-reset:step] [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-12"};function n(e,a){return s(),o("div",l,[r(e.$slots,"default")])}const p=t(c,[["render",n]]);export{p as default};
