@@ -17,15 +17,6 @@ announcement:
   icon: noto:party-popper
   to: /getting-started/changelog
 ---
-```mdc [script.mdc]
-# tier 1 header
-##### tier 5 header
-**bold**  or  __bold__
-*italic*  or  _italic_
-
-[link to markdown guide](https://www.markdownguide.org/basic-syntax/)
-```
-
 #title
 Effortless and Beautiful\:brDocs Template.
 
