@@ -10,7 +10,9 @@ COPY . /app
 
 RUN npm run build
 
-FROM gcr.io/distroless/nodejs:18 as prod
+FROM gcr.io/distroless/nodejs:18
+
+ENV ENV_NODE=production
 
 WORKDIR /app
 
