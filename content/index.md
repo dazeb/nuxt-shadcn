@@ -5,26 +5,24 @@ navigation: false
 
 ::hero
 ---
-announcement:
-  title: 'Release v0.4.1'
-  icon: 'noto:party-popper'
-  to: /getting-started/changelog
 actions:
   - name: Get Started
     to: /getting-started
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
+    leftIcon: lucide:github
+announcement:
+  title: Release v0.4.1
+  icon: noto:party-popper
+  to: /getting-started/changelog
 ---
-
 #title
-Effortless and Beautiful<br>Docs Template.
+Effortless and Beautiful:brDocs Template.
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue.<br>Customizable. Compatible. Open Source.
+Beautifully designed Nuxt Content template built with shadcn-vue.:brCustomizable. Compatible. Open Source.
 ::
 
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>
+::div{.border.rounded-lg.shadow-md}
+::
